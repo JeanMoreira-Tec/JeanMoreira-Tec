@@ -1,7 +1,7 @@
 - 👋 Olá, sou @ JeanMoreira-Tec
 - 👀 Estou interessado em Qualidade de Software - Q.A
 - 🌱 Atualmente estou aprendendo automatização de software com Selenium, Selenium webdriver, TestLink e Cypress
-- 💞️ Estou procurando colaborar em Qualidade de Software com testes manuais e automatizados.
+- 💞️ Estou procurando colaborar com Qualidade de Software aplicando com testes manuais e automatizados.
 - 📫 Como chegar até mim, https://www.linkedin.com/in/jean-moreira-50a43910b/ ou jean.biomedicina@gmail.com
 
 <!---
